@@ -8,11 +8,11 @@
 
 🔧 Problem Solver: With strong critical-thinking abilities, I've successfully tackled challenges in data cleaning, improving data quality, and enhancing operational efficiency through automated Power BI dashboards.
 
-🌐 Education Explorer: Holder of a Master's in Water, Waste, and Environmental Engineering from the University of Greenwich, UK, and a Master's in Soil & Water Engineering from FUTA, Nigeria.
+🌐 Education Explorer: Holder of a Master's in Information Technology and Bachelors' in Computer Science.
 
 🤝 Collaboration Champion: Known for excellent communication and teamwork skills, I've effectively managed stakeholder relationships and led cross-functional teams to successful outcomes.
 
-🌍 Beyond the Data: When not immersed in analytics, you'll find me exploring interests in real estate, reading, and constantly learning new skills.
+🌍 Beyond the Data: When not immersed in analytics, you'll find me exploring interests in new tech gadgets, reading, and constantly learning new IT skills.
 
 📚 Languages: Fluent in English, basic in French, and a native speaker of Ibo.
 
