@@ -1,4 +1,4 @@
-👋 Hello World! I'm Tim Daniels Jidechukwu, a passionate Data Analyst and IT Analyst.
+👋 Hello World! I'm Tim Daniels Jidechukwu, a passionate IT and Data Analyst.
 
 🔍 Data Detective: Specializing in uncovering hidden insights within vast datasets, I've analyzed over variuos datasets to pinpoint lucrative opportunities for businesses.
 
